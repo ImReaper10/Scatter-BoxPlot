@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Scatter-BoxPlot/static/css/main.7b572559.css",
+    "main.js": "/Scatter-BoxPlot/static/js/main.bd3da9d3.js",
+    "static/media/tips.csv": "/Scatter-BoxPlot/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/Scatter-BoxPlot/index.html",
+    "main.7b572559.css.map": "/Scatter-BoxPlot/static/css/main.7b572559.css.map",
+    "main.bd3da9d3.js.map": "/Scatter-BoxPlot/static/js/main.bd3da9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b572559.css",
+    "static/js/main.bd3da9d3.js"
+  ]
+}
